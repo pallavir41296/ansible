@@ -1,0 +1,8 @@
+---
+ - name: install docker 
+   shell: "{{installdocker}}"
+ - name: install git
+   shell: "{{installgit}}"
+ - name: install apache
+   shell: "{{installapache}}"
+# tasks file for role1

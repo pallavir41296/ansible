@@ -1,0 +1,5 @@
+---
+installdocker: yum install docker -y
+installgit: yum install git -y
+installapache: yum install git -y
+# vars file for role1
